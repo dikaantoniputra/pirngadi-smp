@@ -1,11 +1,11 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>Glaxdu - Education Bootstrap 4 Template</title>
+  <title>SMP KRISTEN - PIRNGADI</title>
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- Favicon -->
-  <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="{{ asset('assets/img/logo/logo-pirngadi.png') }}">
   
   <!-- CSS
 ============================================ -->

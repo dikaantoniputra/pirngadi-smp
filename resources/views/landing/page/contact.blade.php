@@ -9,22 +9,8 @@ Bukti Pembayaran
 @endpush
 
 @section('content')
-<div class="breadcrumb-area">
-    <div class="breadcrumb-top default-overlay bg-img breadcrumb-overly-5 pt-100 pb-95" style="background-image:url(assets/img/bg/breadcrumb-bg-6.jpg);">
-        <div class="container">
-            <h2>Contact Us</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore .</p>
-        </div>
-    </div>
-    <div class="breadcrumb-bottom">
-        <div class="container">
-            <ul>
-                <li><a href="#">Home</a> <span><i class="fa fa-angle-double-right"></i>Contact Us</span></li>
-            </ul>
-        </div>
-    </div>
-</div>
-<div class="contact-area pt-130 pb-130">
+
+{{-- <div class="contact-area pt-130 pb-130">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-7">
@@ -50,8 +36,8 @@ Bukti Pembayaran
             </div>
         </div>
     </div>
-</div>
-<div class="contact-info-area bg-img pt-180 pb-140 default-overlay" style="background-image:url(assets/img/bg/contact-info.jpg);">
+</div> --}}
+<div class="contact-info-area bg-img pt-180 pb-140 default-overlay" style="background-image:url(assets/img/banner/video.jpg);">
     <div class="container">
         <div class="row">
             <div class="col-lg-4 col-md-4 col-12">
@@ -89,33 +75,7 @@ Bukti Pembayaran
         </div>
     </div>
 </div>
-<div class="brand-logo-area pt-130 pb-130">
-    <div class="container">
-        <div class="brand-logo-active owl-carousel">
-            <div class="single-brand-logo">
-                <a href="#"><img src="assets/img/brand-logo/1.png" alt=""></a>
-            </div>
-            <div class="single-brand-logo">
-                <a href="#"><img src="assets/img/brand-logo/2.png" alt=""></a>
-            </div>
-            <div class="single-brand-logo">
-                <a href="#"><img src="assets/img/brand-logo/3.png" alt=""></a>
-            </div>
-            <div class="single-brand-logo">
-                <a href="#"><img src="assets/img/brand-logo/4.png" alt=""></a>
-            </div>
-            <div class="single-brand-logo">
-                <a href="#"><img src="assets/img/brand-logo/5.png" alt=""></a>
-            </div>
-            <div class="single-brand-logo">
-                <a href="#"><img src="assets/img/brand-logo/6.png" alt=""></a>
-            </div>
-            <div class="single-brand-logo">
-                <a href="#"><img src="assets/img/brand-logo/2.png" alt=""></a>
-            </div>
-        </div>
-    </div>
-</div>
+
 @endsection
 
 @push('after-script')

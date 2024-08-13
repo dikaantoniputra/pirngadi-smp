@@ -1,5 +1,5 @@
 <footer class="footer-area">
-    <div class="footer-top bg-img default-overlay pt-130 pb-80" style="background-image:url(assets/img/bg/bg-4.jpg);">
+    <div class="footer-top bg-img default-overlay pt-130 pb-80" style="background-image:url('');">
         <div class="container">
             <div class="row">
                 <div class="col-lg-3 col-md-6 col-sm-6">
@@ -33,47 +33,18 @@
                         </div>
                         <div class="footer-list">
                             <ul>
-                                <li><a href="index.html">Home</a></li>
-                                <li><a href="about-us.html">About Us</a></li>
-                                <li><a href="course.html">Courses</a></li>
-                                <li><a href="#">Admission</a></li>
-                                <li><a href="#">Terms & Conditions</a></li>
+                                <li><a href="{{ url('/') }}">Home</a></li>
+                                <li><a href="{{ url('/tentang-kami') }}">Tentang Kami</a></li>
+                                <li><a href="{{ url('fasilitas') }}">Fasilitas</a></li>
+                                <li><a href="{{ url('guru') }}">Guru</a></li>
+                                <li><a href="{{ url('hubungi-kami') }}">Contact</a></li>
                             </ul>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-2 col-md-3 col-sm-6">
-                    <div class="footer-widget negative-mrg-30 mb-40">
-                        <div class="footer-title">
-                            <h4>COURSES</h4>
-                        </div>
-                        <div class="footer-list">
-                            <ul>
-                                <li><a href="#">Under Graduate Programmes </a></li>
-                                <li><a href="#">Graduate Programmes </a></li>
-                                <li><a href="#">Diploma Courses</a></li>
-                                <li><a href="#">Others Programmes</a></li>
-                                <li><a href="#">Short Courses</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-2 col-md-6 col-sm-6">
-                    <div class="footer-widget mb-40">
-                        <div class="footer-title">
-                            <h4>GALLERY</h4>
-                        </div>
-                        <div class="footer-gallery">
-                            <ul>
-                                <li><a href="#"><img src="assets/img/gallery/gallery-1.png" alt=""></a></li>
-                                <li><a href="#"><img src="assets/img/gallery/gallery-2.png" alt=""></a></li>
-                                <li><a href="#"><img src="assets/img/gallery/gallery-3.png" alt=""></a></li>
-                                <li><a href="#"><img src="assets/img/gallery/gallery-4.png" alt=""></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-12">
+            
+            
+                {{-- <div class="col-lg-3 col-md-6 col-sm-12">
                     <div class="footer-widget mb-40">
                         <div class="footer-title">
                             <h4>News Latter</h4>
@@ -95,7 +66,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> --}}
             </div>
         </div>
     </div>
@@ -106,7 +77,7 @@
                     <div class="copyright">
                         <p>
                             Copyright ©
-                            <a href="#">GLAXDU</a>
+                            <a href="#">Pirngadi</a>
                             . All Right Reserved.
                         </p>
                     </div>

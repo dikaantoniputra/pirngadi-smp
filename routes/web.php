@@ -17,21 +17,18 @@ Route::get('/', function () {
     return view('landing.page.index');
 });
 
-Route::get('/about-daycare', function () {
+Route::get('/tentang-kami', function () {
     return view('landing.page.about');
 });
 
-Route::get('/guru-daycare', function () {
-    return view('landing.page.guru');
-});
-
-Route::get('/guru-daycare', function () {
-    return view('landing.page.guru');
-});
-
-Route::get('/layanan-classes', function () {
+Route::get('/fasilitas', function () {
     return view('landing.page.classes');
 });
+
+Route::get('/guru', function () {
+    return view('landing.page.guru');
+});
+
 
 Route::get('/hubungi-kami', function () {
     return view('landing.page.contact');
@@ -40,17 +37,3 @@ Route::get('/hubungi-kami', function () {
 Route::get('/gallery', function () {
     return view('landing.page.gallery');
 });
-
-// Route::get('/ybppk-pirngadi-visi&misi', function () {
-//     return view('landing.page.visi_misi');
-// });
-
-
-
-// Route::get('/ybppk-pirngadi-pengurus', function () {
-//     return view('landing.page.pengurusyayasan');
-// });
-
-// Route::get('/ybppk-pirngadi-manajerial', function () {
-//     return view('landing.page.manajerial');
-// });
