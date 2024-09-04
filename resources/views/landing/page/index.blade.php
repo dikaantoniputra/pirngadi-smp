@@ -15,13 +15,14 @@ Bukti Pembayaran
 @section('content')
 <div class="slider-area">
     <div class="slider-active owl-carousel">
-        <div class="single-slider slider-height-1 bg-img" style="background-image:url(assets/img/slider/sider1.jpg);">
+        <!-- Slide 1 -->
+        <div class="single-slider slider-height-2 bg-img align-items-center d-flex slider-overlay2-1 default-overlay" style="background-image:url(assets/img/slider/slider-2.jpg);">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-9 col-md-7 col-12 col-sm-12">
-                        <div class="slider-content slider-animated-1 pt-230">
-                            <h1 class="animated">SMA Kristen Pirngadi</h1>
-                            <p class="animated">Selamat datang di SMA Kristen Pirngadi, tempat di mana pendidikan berkualitas dan nilai-nilai Kristen bersatu untuk membentuk generasi penerus yang unggul.</p>
+                    <div class="col-lg-12 col-md-12 col-12 col-sm-12">
+                        <div class="slider-content slider-content-2 slider-animated-2 text-center">
+                            <h1 class="animated">Selamat Datang di SMP Kristen Pirngadi</h1>
+                            <p class="animated">SMP Kristen Pirngadi menyediakan pendidikan berkualitas dengan fokus pada pengembangan karakter dan keterampilan akademik siswa.</p>
                             <div class="slider-btn">
                                 <a class="animated default-btn btn-green-color" href="about-us.html">TENTANG KAMI</a>
                                 <a class="animated default-btn btn-white-color" href="contact.html">HUBUNGI KAMI</a>
@@ -29,448 +30,413 @@ Bukti Pembayaran
                         </div>
                     </div>
                 </div>
-                <div class="slider-single-img slider-animated-1">
-                    <img class="animated" src="assets/img/slider/kepsek.png" alt="Kepala Sekolah SMA Kristen Pirngadi">
+            </div>
+        </div>
+        <!-- Slide 2 -->
+        <div class="single-slider slider-height-2 align-items-center d-flex bg-img slider-overlay2-2 default-overlay" style="background-image:url(assets/img/slider/slider-3.jpg);">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12 col-md-12 col-12 col-sm-12">
+                        <div class="slider-content slider-content-2 slider-animated-2 text-center">
+                            <h1 class="animated">Sambutan Kepala Sekolah</h1>
+                            <p class="animated">"Kami berkomitmen untuk mendidik generasi muda dengan penuh dedikasi dan kasih, membentuk mereka menjadi pribadi yang unggul, berkarakter, dan siap menghadapi tantangan masa depan."</p>
+                            <div class="slider-btn">
+                                <a class="animated default-btn btn-green-color" href="about-us.html">TENTANG KAMI</a>
+                                <a class="animated default-btn btn-white-color" href="contact.html">HUBUNGI KAMI</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Slide 3 -->
+        <div class="single-slider slider-height-2 align-items-center d-flex bg-img slider-overlay2-3 default-overlay" style="background-image:url(assets/img/slider/slider-4.jpg);">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12 col-md-12 col-12 col-sm-12">
+                        <div class="slider-content slider-content-2 slider-animated-2 text-center">
+                            <h1 class="animated">Selamat Datang di SMP Kristen Pirngadi</h1>
+                            <p class="animated">Kami percaya bahwa setiap anak adalah anugerah yang perlu dikembangkan potensinya secara maksimal dengan pendidikan yang holistik.</p>
+                            <div class="slider-btn">
+                                <a class="animated default-btn btn-green-color" href="about-us.html">TENTANG KAMI</a>
+                                <a class="animated default-btn btn-white-color" href="contact.html">HUBUNGI KAMI</a>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
 </div>
 
-<div class="choose-us section-padding-1">
-    <div class="container-fluid">
-        <div class="row no-gutters choose-negative-mrg">
-            <!-- Updated Item 1: Kegiatan Rohani -->
-            <div class="col-lg-3 col-md-6">
-                <div class="single-choose-us choose-bg-light-blue">
-                    <div class="choose-img">
-                        <img class="animated" src="assets/img/icon-img/service-1.png" alt="">
-                    </div>
-                    <div class="choose-content">
-                        <h3>Kegiatan Rohani</h3>
-                        <p>Kegiatan keagamaan rutin seperti ibadah dan retret untuk memperkuat iman dan spiritualitas siswa.</p>
-                    </div>
-                </div>
-            </div>
-            <!-- Existing Item 2: Laboratorium Modern -->
-            <div class="col-lg-3 col-md-6">
-                <div class="single-choose-us choose-bg-yellow">
-                    <div class="choose-img">
-                        <img class="animated" src="assets/img/icon-img/service-2.png" alt="">
-                    </div>
-                    <div class="choose-content">
-                        <h3>Laboratorium Modern</h3>
-                        <p>Kami memiliki laboratorium yang lengkap untuk mendukung kegiatan praktikum siswa di bidang sains dan teknologi.</p>
-                    </div>
-                </div>
-            </div>
-            <!-- Existing Item 3: Ekstrakurikuler Beragam -->
-            <div class="col-lg-3 col-md-6">
-                <div class="single-choose-us choose-bg-blue">
-                    <div class="choose-img">
-                        <img class="animated" src="assets/img/icon-img/service-3.png" alt="">
-                    </div>
-                    <div class="choose-content">
-                        <h3>Ekstrakurikuler Beragam</h3>
-                        <p>Kami menawarkan berbagai ekstrakurikuler untuk mengembangkan bakat dan minat siswa di bidang seni, olahraga, dan ilmu pengetahuan.</p>
-                    </div>
-                </div>
-            </div>
-            <!-- Updated Item 4: Kelas Berbasis Teknologi -->
-            <div class="col-lg-3 col-md-6">
-                <div class="single-choose-us choose-bg-green">
-                    <div class="choose-img">
-                        <img class="animated" src="assets/img/icon-img/service-4.png" alt="">
-                    </div>
-                    <div class="choose-content">
-                        <h3>Kelas Berbasis Teknologi</h3>
-                        <p>Penggunaan teknologi terkini dalam proses pembelajaran untuk mempersiapkan siswa menghadapi era digital.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+
 
 <div class="about-us pt-130 pb-130">
     <div class="container">
-        <div class="row">
-            <!-- About Content -->
-            <div class="col-lg-6 col-md-6">
-                <div class="about-content">
-                    <div class="section-title section-title-green mb-30">
-                        <h2>About <span>Us</span></h2>
-                        <p>SMA Kristen Pirngadi adalah institusi pendidikan yang berkomitmen untuk menyediakan pendidikan berkualitas yang dilandasi oleh nilai-nilai Kristiani.</p>
+        <div class="section-title-3 section-shape-hm2-1 text-center mb-100">
+            <h2>Tentang <span>Kami</span></h2>
+            <p>SMP Kristen Pirngadi berkomitmen untuk menyediakan pendidikan berkualitas yang mengutamakan pengembangan karakter dan akademik siswa. <br> Kami berdedikasi untuk mencetak generasi penerus bangsa yang unggul dan berintegritas.</p>
+        </div>
+        <div class="row align-items-center">
+           <div class="col-lg-7 col-md-12">
+                <div class="about-img about-img-2  mr-70">
+                    <img src="assets/img/banner/banner-2.jpg" alt="Tentang Kami SMP Kristen Pirngadi">
+                </div>
+            </div>
+            <div class="col-lg-5 col-md-12">
+                <div class="about-content-2 pr-70">
+                    <p>SMP Kristen Pirngadi telah berdiri selama lebih dari 50 tahun, mendidik generasi muda dengan penuh dedikasi. Dengan pendekatan holistik, kami percaya bahwa pendidikan yang baik tidak hanya mencakup aspek akademik tetapi juga pengembangan karakter, spiritualitas, dan kreativitas siswa.</p>
+                    <img src="assets/img/banner/banner-3.jpg"  alt="Siswa SMP Kristen Pirngadi">
+                    <div class="signature mt-30">
+                        <img src="assets/img/icon-img/signature.png" alt="Tanda Tangan Kepala Sekolah">
                     </div>
-                    <p>Sejak didirikan, SMA Kristen Pirngadi telah berfokus pada pengembangan akademis dan karakter siswa. Kami menawarkan lingkungan belajar yang kondusif dengan dukungan fasilitas modern dan tenaga pengajar yang profesional.</p>
-                    <p>Visi kami adalah membentuk generasi muda yang tidak hanya cerdas secara intelektual tetapi juga kuat dalam iman dan berintegritas. Kami percaya bahwa pendidikan yang holistik adalah kunci untuk mencetak pemimpin masa depan yang berakhlak mulia.</p>
-                    <p>Dengan berbagai program unggulan, termasuk kelas berbasis teknologi, kegiatan rohani, dan ekstrakurikuler yang beragam, kami berusaha untuk memberikan pengalaman belajar yang menyeluruh kepada setiap siswa.</p>
                     <div class="about-btn mt-45">
                         <a class="default-btn" href="about-us.html">TENTANG KAMI</a>
                     </div>
                 </div>
             </div>
-            <!-- About Image and Video -->
-            <div class="col-lg-6 col-md-6">
-                <div class="about-img default-overlay">
-                    <img src="assets/img/banner/about-us.png" alt="Tentang SMA Kristen Pirngadi">
-                    <a class="video-btn video-popup" href="https://www.youtube.com/watch?v=-172xbujEyc">
-                        <img class="animated" src="assets/img/icon-img/video.png" alt="Video Tentang Kami">
-                    </a>
-                </div>
-            </div>
         </div>
     </div>
 </div>
 
-<!-- Additional Information -->
-<div class="about-details pb-130">
+
+<div class="blog-event-area pt-130 pb-115">
     <div class="container">
         <div class="row">
-            <!-- School History Section -->
-            <div class="col-lg-6 col-md-6">
-                <div class="about-content">
-                    <div class="section-title section-title-green mb-30">
-                        <h2>Our <span>History</span></h2>
+            <div class="col-lg-6">
+                <div class="section-title-3 mb-45 mrg-bottom-small">
+                    <a href="/guru"><h2>Guru <span>Kami</span></h2></a>
+                    <p><a href="/guru">All Guru </a> </p>
+                </div>
+                <div class="blog-active">
+                    <div class="single-blog">
+                        <div class="blog-img">
+                            <a href="blog-details.html"><img src="assets/img/blog/blog-1.jpg" alt=""></a>
+                        </div>
+                        <div class="blog-content-wrap">
+                            <span>Harnap n.s Sihite, S.pd</span>
+                            <div class="blog-content">
+                                
+                                <p>Guru Biologi dan Kimia</p>
+                            </div>
+                        </div>
                     </div>
-                    <p>SMA Kristen Pirngadi didirikan pada tahun 1970 dengan tujuan menyediakan pendidikan berkualitas yang berlandaskan nilai-nilai Kristiani. Sejak saat itu, kami telah berkembang menjadi salah satu sekolah terkemuka di daerah ini, dengan ribuan alumni yang telah berkontribusi di berbagai bidang.</p>
+                    <div class="single-blog">
+                        <div class="blog-img">
+                            <a href="blog-details.html"><img src="assets/img/blog/blog-2.jpg" alt=""></a>
+                        </div>
+                        <div class="blog-content-wrap">
+                            <span>Dian Abdriana Martiani Lova Aloysia, SE, S.PD, M.PD</span>
+                            <div class="blog-content">
+                               
+                                <p>Guru Bahasa Indonesia</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="single-blog">
+                        <div class="blog-img">
+                            <a href="blog-details.html"><img src="assets/img/blog/blog-3.jpg" alt=""></a>
+                        </div>
+                        <div class="blog-content-wrap">
+                            <span>Dra. Lodya Petronella</span>
+                            <div class="blog-content">
+                                
+                                <p>Guru Fisika</p>
+                            </div>
+                        </div>
+                    </div>
+                    
                 </div>
             </div>
-            <!-- Mission and Vision Section -->
-            <div class="col-lg-6 col-md-6">
-                <div class="about-content">
-                    <div class="section-title section-title-green mb-30">
-                        <h2>Our <span>Mission & Vision</span></h2>
+            <div class="col-lg-6">
+                <div class="section-title-3 mb-45 ml-70">
+                    <h2><span>Pemimpin </span>Hebat </h2>
+                    <p>Kepala Sekolah & Wakil Kepala Sekolah </p>
+                </div>
+                <div class="event-active-2 ml-70">
+                    <div class="single-event single-event-2">
+                        <div class="event-img">
+                            <a href="event-details.html"><img src="assets/img/event/event-4.jpg" alt=""></a>
+                            <div class="event-date-wrap">
+                                <span class="event-date">Kepala</span>
+                                <span>Sekolah</span>
+                            </div>
+                        </div>
+                        <div class="event-content">
+                            <h3><a href="event-details.html">Josef Gerard Laisina, S.si</a></h3>
+                            <p>Selamat datang di SMP Kristen Pirngadi. Sebagai Kepala Sekolah, saya merasa terhormat dan bangga dapat menyambut Anda ke dalam lembaga pendidikan kami. </p>
+
+                            <div class="event-meta-wrap">
+                                {{-- <div class="event-meta">
+                                    <i class="fa fa-location-arrow"></i>
+                                    <span>Mascot Plaza ,Uttara</span>
+                                </div>
+                                <div class="event-meta">
+                                    <i class="fa fa-clock-o"></i>
+                                    <span>10:30 am</span>
+                                </div> --}}
+                            </div>
+                        </div>
                     </div>
-                    <p><strong>Misi:</strong> Mendidik siswa dengan pengetahuan dan nilai-nilai Kristiani untuk menjadi individu yang berkarakter, berintegritas, dan berkontribusi positif bagi masyarakat.</p>
-                    <p><strong>Visi:</strong> Menjadi lembaga pendidikan unggulan yang menghasilkan lulusan berprestasi, beriman kuat, dan siap menghadapi tantangan global.</p>
+                    <div class="single-event single-event-2">
+                        <div class="event-img">
+                            <a href="event-details.html"><img src="assets/img/event/event-4.jpg" alt=""></a>
+                            <div class="event-date-wrap">
+                                <span class="event-date">Wakil</span>
+                                <span>Kepala Sekolah</span>
+                            </div>
+                        </div>
+                        <div class="event-content">
+                            <h3><a href="event-details.html">Dian.</a></h3>
+                            <p>Selamat datang di SMP Kristen Pirngadi. Sebagai Waka , saya merasa terhormat dan bangga dapat menyambut Anda ke dalam lembaga pendidikan kami. </p>
+                            {{-- <div class="event-meta-wrap">
+                                <div class="event-meta">
+                                    <i class="fa fa-location-arrow"></i>
+                                    <span>Shuvastu ,Badda</span>
+                                </div>
+                                <div class="event-meta">
+                                    <i class="fa fa-clock-o"></i>
+                                    <span>10:30 am</span>
+                                </div>
+                            </div> --}}
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
 </div>
 
-<div class="course-area bg-img pt-130 pb-10" style="background-image:url(assets/img/bg/bg-1.jpg);">
+<div class="admission-area pt-125 pb-130 bg-img-position">
     <div class="container">
-        <div class="section-title mb-75">
-            <h2> <span>SMA Kristen</span> Pirngadi</h2>
-            <p>Selamat datang di SMA Kristen Pirngadi, tempat di mana pendidikan berkualitas dan nilai-nilai Kristen berpadu. Kami berkomitmen untuk menciptakan lingkungan belajar yang inspiratif dan mendukung perkembangan holistik siswa. <br> Temukan fasilitas kami yang modern dan komunitas yang ramah.</p>
-        </div>
-        <div class="course-slider-active nav-style-1 owl-carousel">
-            <div class="single-course">
-                <div class="course-img">
-                    <a href="school-details.html"><img class="animated" src="assets/img/course/ruangan1.jpg" alt="Kelas Modern"></a>
-                    <span>Fasilitas Kelas Modern</span>
-                </div>
-                <div class="course-content">
-                    <h4><a href="school-details.html">Kelas Interaktif</a></h4>
-                    <p>Kelas kami dilengkapi dengan teknologi terbaru untuk mendukung metode pengajaran yang interaktif dan efektif.</p>
-                </div>
-            </div>
-            <div class="single-course">
-                <div class="course-img">
-                    <a href="school-details.html"><img class="animated" src="assets/img/course/ruangan2.jpg" alt="Taman Sekolah"></a>
-                    <span>Lingkungan Hijau</span>
-                </div>
-                <div class="course-content">
-                    <h4><a href="school-details.html">Taman Sekolah yang Asri</a></h4>
-                    <p>Area hijau yang indah di sekolah kami menyediakan ruang untuk bersantai dan berinteraksi di luar kelas.</p>
-                </div>
-            </div>
-            <div class="single-course">
-                <div class="course-img">
-                    <a href="school-details.html"><img class="animated" src="assets/img/course/ruangan3.jpg" alt="Fasilitas Olahraga"></a>
-                    <span>Fasilitas Olahraga</span>
-                </div>
-                <div class="course-content">
-                    <h4><a href="school-details.html">Fasilitas Olahraga Terlengkap</a></h4>
-                    <p>Dari lapangan olahraga hingga fasilitas kebugaran, kami memiliki berbagai fasilitas untuk mendukung kegiatan olahraga dan kesehatan siswa.</p>
-                </div>
-            </div>
-            <div class="single-course">
-                <div class="course-img">
-                    <a href="school-details.html"><img class="animated" src="assets/img/course/ruangan4.png" alt="Area Komunitas"></a>
-                    <span>Komunitas Ramah</span>
-                </div>
-                <div class="course-content">
-                    <h4><a href="school-details.html">Area Komunitas</a></h4>
-                    <p>Area komunitas di sekolah kami dirancang untuk memperkuat rasa kebersamaan dan dukungan antara siswa, guru, dan orang tua.</p>
-                </div>
+        <div class="admission-title text-center pb-5">
+            <h2>Ruang Sekolah</h2>
+            <p>Kami memiliki berbagai fasilitas di sekolah untuk mendukung proses belajar mengajar yang efektif dan menyenangkan. Berikut adalah beberapa ruangan utama yang ada di sekolah kami:</p>
+           
+            <div class="apply-btn">
+                <a class="default-btn" href="#">Explore More</a>
             </div>
         </div>
+        
+     
+        <div class="tab-content jump">
+            <div class="tab-pane active" id="course-categorie-1">
+                <div class="course-slider-active-2 nav-style-1 owl-carousel">
+                    <div class="course-categorie-bundle">
+                        <div class="single-course mb-30">
+                            <div class="course-img">
+                                <a href="course-details.html"><img src="assets/img/course/course-5.jpg" alt=""></a>
+                            </div>
+                            <div class="course-content course-content-2">
+                                <h4><a href="course-details.html">Ruang Kepala Sekolah</a></h4>
+                                <p>Ruang Kepala Sekolah merupakan tempat pimpinan sekolah bekerja, dilengkapi dengan meja, kursi, dan fasilitas lain yang menunjang kegiatan administrasi dan koordinasi.</p>
+                            </div>
+                        </div>
+                        <div class="single-course mb-30">
+                            <div class="course-img">
+                                <a href="course-details.html"><img src="assets/img/course/course-9.jpg" alt=""></a>
+                                <span class="new-course">New Room</span>
+                            </div>
+                            <div class="course-content course-content-2">
+                                <h4><a href="course-details.html">Ruang Guru</a></h4>
+                                <p>Ruang Guru adalah area di mana para pengajar berkumpul dan berkoordinasi. Dilengkapi dengan meja kerja dan area istirahat untuk mendukung proses pengajaran.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="course-categorie-bundle">
+                        <div class="single-course mb-30">
+                            <div class="course-img">
+                                <a href="course-details.html"><img src="assets/img/course/course-6.jpg" alt=""></a>
+                            </div>
+                            <div class="course-content course-content-2">
+                                <h4><a href="course-details.html">Ruang TU</a></h4>
+                                <p>Ruang Tata Usaha (TU) merupakan area untuk administrasi sekolah, termasuk pendaftaran siswa, pengelolaan dokumen, dan keperluan administrasi lainnya.</p>
+                            </div>
+                        </div>
+                        <div class="single-course mb-30">
+                            <div class="course-img">
+                                <a href="course-details.html"><img src="assets/img/course/course-10.jpg" alt=""></a>
+                            </div>
+                            <div class="course-content course-content-2">
+                                <h4><a href="course-details.html">Ruang Tamu</a></h4>
+                                <p>Ruang Tamu adalah area di mana tamu sekolah dapat menunggu dan bertemu dengan staf atau pihak sekolah lainnya.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="course-categorie-bundle">
+                        <div class="single-course mb-30">
+                            <div class="course-img">
+                                <a href="course-details.html"><img src="assets/img/course/course-7.jpg" alt=""></a>
+                            </div>
+                            <div class="course-content course-content-2">
+                                <h4><a href="course-details.html">Ruang Makan Guru</a></h4>
+                                <p>Ruang Makan Guru adalah area khusus untuk para pengajar makan siang, dilengkapi dengan meja makan dan fasilitas pendukung lainnya.</p>
+                            </div>
+                        </div>
+                        <div class="single-course mb-30">
+                            <div class="course-img">
+                                <a href="course-details.html"><img src="assets/img/course/course-11.jpg" alt=""></a>
+                            </div>
+                            <div class="course-content course-content-2">
+                                <h4><a href="course-details.html">Perpustakaan</a></h4>
+                                <p>Perpustakaan sekolah menyediakan berbagai buku dan referensi untuk mendukung kegiatan belajar siswa dan penelitian.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="course-categorie-bundle">
+                        <div class="single-course mb-30">
+                            <div class="course-img">
+                                <a href="course-details.html"><img src="assets/img/course/course-8.jpg" alt=""></a>
+                                <span class="new-course">New Room</span>
+                            </div>
+                            <div class="course-content course-content-2">
+                                <h4><a href="course-details.html">Kantin</a></h4>
+                                <p>Kantin adalah area di mana siswa dan staf dapat membeli makanan dan minuman selama waktu istirahat.</p>
+                            </div>
+                        </div>
+                        <div class="single-course mb-30">
+                            <div class="course-img">
+                                <a href="course-details.html"><img src="assets/img/course/course-12.jpg" alt=""></a>
+                                <span class="new-course">New Room</span>
+                            </div>
+                            <div class="course-content course-content-2">
+                                <h4><a href="course-details.html">Ruang Lab IPA</a></h4>
+                                <p>Ruang Lab IPA dilengkapi dengan peralatan dan materi untuk eksperimen dan praktikum di bidang Ilmu Pengetahuan Alam.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="course-categorie-bundle">
+                        <div class="single-course mb-30">
+                            <div class="course-img">
+                                <a href="course-details.html"><img src="assets/img/course/course-7.jpg" alt=""></a>
+                            </div>
+                            <div class="course-content course-content-2">
+                                <h4><a href="course-details.html">Ruang Kelas 7</a></h4>
+                                <p>Ruang Kelas 7 adalah tempat belajar bagi siswa kelas 7, dengan fasilitas yang mendukung proses belajar mengajar.</p>
+                            </div>
+                        </div>
+                        <div class="single-course mb-30">
+                            <div class="course-img">
+                                <a href="course-details.html"><img src="assets/img/course/course-2.jpg" alt=""></a>
+                            </div>
+                            <div class="course-content course-content-2">
+                                <h4><a href="course-details.html">Ruang Kelas 8</a></h4>
+                                <p>Ruang Kelas 8 dilengkapi dengan fasilitas pembelajaran untuk mendukung aktivitas siswa kelas 8.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="course-categorie-bundle">
+                        <div class="single-course mb-30">
+                            <div class="course-img">
+                                <a href="course-details.html"><img src="assets/img/course/course-4.jpg" alt=""></a>
+                            </div>
+                            <div class="course-content course-content-2">
+                                <h4><a href="course-details.html">Ruang Kelas 9</a></h4>
+                                <p>Ruang Kelas 9 adalah tempat untuk siswa kelas 9 mengikuti pelajaran dan kegiatan akademis lainnya.</p>
+                            </div>
+                        </div>
+                        <div class="single-course mb-30">
+                            <div class="course-img">
+                                <a href="course-details.html"><img src="assets/img/course/course-1.jpg" alt=""></a>
+                            </div>
+                            <div class="course-content course-content-2">
+                                <h4><a href="course-details.html">Ruang Lab Bahasa</a></h4>
+                                <p>Ruang Lab Bahasa dilengkapi dengan teknologi audio-visual untuk meningkatkan kemampuan bahasa siswa.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="course-categorie-bundle">
+                        <div class="single-course mb-30">
+                            <div class="course-img">
+                                <a href="course-details.html"><img src="assets/img/course/course-9.jpg" alt=""></a>
+                                <span class="new-course">New Room</span>
+                            </div>
+                            <div class="course-content course-content-2">
+                                <h4><a href="course-details.html">Ruang Lab Komputer SMP</a></h4>
+                                <p>Ruang Lab Komputer SMP menyediakan fasilitas komputer untuk mendukung pembelajaran dan praktek teknologi informasi.</p>
+                            </div>
+                        </div>
+                        <div class="single-course mb-30">
+                            <div class="course-img">
+                                <a href="course-details.html"><img src="assets/img/course/course-8.jpg" alt=""></a>
+                            </div>
+                            <div class="course-content course-content-2">
+                                <h4><a href="course-details.html">Apparel Manufacturing</a></h4>
+                                <p>Ruang Apparel Manufacturing adalah area untuk praktek dan belajar tentang proses pembuatan pakaian.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-pane" id="course-categorie-2">
+                <!-- Similar updates for other categories -->
+            </div>
+            <div class="tab-pane" id="course-categorie-3">
+                <!-- Similar updates for other categories -->
+            </div>
+            <div class="tab-pane" id="course-categorie-4">
+                <!-- Similar updates for other categories -->
+            </div>
+           
+        </div>
+        
     </div>
 </div>
 
-<div class="achievement-area pt-130">
+<div class="fun-fact-area bg-img pt-130 pb-100" style="background-image:url(assets/img/slider/slider-1.jpg);">
     <div class="container">
-        <div class="section-title mb-75">
-            <h2>Prestasi <span>SMA Kristen Pirngadi</span></h2>
-            <p>Kami bangga atas pencapaian yang telah diraih oleh SMA Kristen Pirngadi. Berikut adalah beberapa prestasi utama yang menggambarkan komitmen kami terhadap pendidikan berkualitas dan pengembangan siswa yang holistik.</p>
+        <div class="section-title-3 section-shape-hm2-2 white-text text-center mb-100">
+            <h2><span>Fakta</span> Menarik</h2>
+            <p>SMP Kristen Pirngadi memiliki berbagai prestasi dan pencapaian yang membanggakan, serta terus berkomitmen dalam mendidik siswa menjadi pribadi yang unggul dan berprestasi.</p>
         </div>
         <div class="row">
             <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
-                <div class="single-count mb-30 count-one">
+                <div class="single-count mb-30 count-one count-white">
                     <div class="count-img">
-                        <img src="assets/img/icon-img/achieve-1.png" alt="Jumlah Siswa">
+                        <img src="assets/img/icon-img/funfact-1.png" alt="">
                     </div>
                     <div class="count-content">
-                        <h2 class="count">180</h2>
-                        <span>Jumlah Siswa</span>
+                        <h2 class="count">50</h2>
+                        <span>PENGHARGAAN</span>
                     </div>
                 </div>
             </div>
             <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
-                <div class="single-count mb-30 count-two">
+                <div class="single-count mb-30 count-two count-white">
                     <div class="count-img">
-                        <img src="assets/img/icon-img/achieve-2.png" alt="Lulusan">
+                        <img src="assets/img/icon-img/funfact-2.png" alt="">
                     </div>
                     <div class="count-content">
-                        <h2 class="count">670</h2>
-                        <span>Lulusan Berhasil</span>
+                        <h2 class="count">1200</h2>
+                        <span>LULUSAN</span>
                     </div>
                 </div>
             </div>
             <div class="col-xl-4 col-lg-3 col-md-6 col-sm-6">
-                <div class="single-count mb-30 count-three">
+                <div class="single-count mb-30 count-three count-white">
                     <div class="count-img">
-                        <img src="assets/img/icon-img/achieve-3.png" alt="Penghargaan">
+                        <img src="assets/img/icon-img/funfact-1.png" alt="">
                     </div>
                     <div class="count-content">
-                        <h2 class="count">160</h2>
-                        <span>Penghargaan</span>
+                        <h2 class="count">30</h2>
+                        <span>PRESTASI NASIONAL</span>
                     </div>
                 </div>
             </div>
             <div class="col-xl-2 col-lg-3 col-md-6 col-sm-6">
-                <div class="single-count mb-30 count-four">
+                <div class="single-count mb-30 count-four count-white">
                     <div class="count-img">
-                        <img src="assets/img/icon-img/achieve-4.png" alt="Jumlah Fakultas">
+                        <img src="assets/img/icon-img/funfact-2.png" alt="">
                     </div>
                     <div class="count-content">
-                        <h2 class="count">16</h2>
-                        <span>Jumlah Guru</span>
+                        <h2 class="count">100</h2>
+                        <span>GURU TERBAIK</span>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </div>
-
-
-<div class="teacher-area pt-130 pb-100">
-    <div class="container">
-        <div class="section-title mb-75">
-            <h2>Best <span>Teacher</span></h2>
-            <p>Kami bangga memperkenalkan tim pengajar terbaik kami, yang berdedikasi untuk membimbing dan menginspirasi para siswa. Setiap guru memiliki keahlian unik dan pengalaman yang luas di bidang mereka, memastikan kualitas pendidikan yang tinggi.</p>
-        </div>
-        <div class="custom-row">
-            <!-- Teacher 1 -->
-            <div class="custom-col-5">
-                <div class="single-teacher mb-30">
-                    <div class="teacher-img">
-                        <img src="assets/img/teacher/enggar.jpg" alt="Enggar Tjahyani">
-                    </div>
-                    <div class="teacher-content-visible">
-                        <h4>Enggar Tjahyani, S.Sos</h4>
-                        
-                    </div>
-                    <div class="teacher-content-wrap">
-                        <div class="teacher-content">
-                            <h4>Enggar Tjahyani</h4>
-                            <h5>Ilmu Admin Negara</h5>
-                            <p>Pendidik berpengalaman dalam bidang Ilmu Administrasi Negara.</p>
-                           
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Teacher 2 -->
-            <div class="custom-col-5">
-                <div class="single-teacher mb-30">
-                    <div class="teacher-img">
-                        <img src="assets/img/teacher/ketut.jpg" alt="Dra. Yusvita Anis S.">
-                    </div>
-                    <div class="teacher-content-visible">
-                        <h4>Ni Ketut Suartini</h4>
-                       
-                    </div>
-                    <div class="teacher-content-wrap">
-                        <div class="teacher-content">
-                            <h4>Ni Ketut Suartini.</h4>
-                            <h5>Pustakawan</h5>
-                            <p>Ahli dalam bidang Pustakawan dengan pengalaman luas.</p>
-                           
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Teacher 3 -->
-            <div class="custom-col-5">
-                <div class="single-teacher mb-30">
-                    <div class="teacher-img">
-                        <img src="assets/img/teacher/DSC03170.jpg" alt="Drs. Chris Celis">
-                    </div>
-                    <div class="teacher-content-visible">
-                        <h4>Drs. Chris Celis P</h4>
-                       
-                    </div>
-                    <div class="teacher-content-wrap">
-                        <div class="teacher-content">
-                            <h4>Drs. Chris Celis P</h4>
-                            <h5>Kimia/Biologi</h5>
-                            <p>Pendidik berpengalaman di bidang Kimia dan Biologi.</p>
-                           
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Teacher 4 -->
-            <div class="custom-col-5">
-                <div class="single-teacher mb-30">
-                    <div class="teacher-img">
-                        <img src="assets/img/teacher/DSC03187.jpg" alt="Eko Setiyo Budiono">
-                    </div>
-                    <div class="teacher-content-visible">
-                        <h4>Joreza Pattinasarane</h4>
-                      
-                    </div>
-                    <div class="teacher-content-wrap">
-                        <div class="teacher-content">
-                            <h4>Joreza Pattinasarane</h4>
-                            <h5>TU</h5>
-                            <p>Ahli dalam Tata Usaha dan Komputer.</p>
-                           
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Teacher 5 -->
-            <div class="custom-col-5">
-                <div class="single-teacher mb-30">
-                    <div class="teacher-img">
-                        <img src="assets/img/teacher/DSC03177.jpg" alt="Agustinus Doe Koten">
-                    </div>
-                    <div class="teacher-content-visible">
-                        <h4>Agustinus Doe Koten, S.pd.</h4>
-                       
-                    </div>
-                    <div class="teacher-content-wrap">
-                        <div class="teacher-content">
-                            <h4>Agustinus Doe Koten, S.pd.</h4>
-                            <h5>Bahasa Inggris</h5>
-                            <p>Pendidik bersemangat di bidang Bahasa Inggris.</p>
-                           
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-<div class="event-area bg-img default-overlay pt-130 pb-130" style="background-image:url(assets/img/bg/bg-3.jpg);">
-    <div class="container">
-        <div class="section-title mb-75">
-            <h2><span>Our</span> Event</h2>
-            <p>coming soon</p>
-        </div>
-        {{-- <div class="event-active owl-carousel nav-style-1">
-            <div class="single-event event-white-bg">
-                <div class="event-img">
-                    <a href="event-details.html"><img src="assets/img/event/event-1.jpg" alt=""></a>
-                    <div class="event-date-wrap">
-                        <span class="event-date">1st</span>
-                        <span>Dec</span>
-                    </div>
-                </div>
-                <div class="event-content">
-                    <h3><a href="event-details.html">Aempor incididunt ut labore ejam.</a></h3>
-                    <p>Pvolupttem accusantium doloremque laudantium, totam erspiciatis unde omnis iste natus error .</p>
-                    <div class="event-meta-wrap">
-                        <div class="event-meta">
-                            <i class="fa fa-location-arrow"></i>
-                            <span>Mascot Plaza ,Uttara</span>
-                        </div>
-                        <div class="event-meta">
-                            <i class="fa fa-clock-o"></i>
-                            <span>11:00 am</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="single-event event-white-bg">
-                <div class="event-img">
-                    <a href="event-details.html"><img src="assets/img/event/event-2.jpg" alt=""></a>
-                    <div class="event-date-wrap">
-                        <span class="event-date">10th</span>
-                        <span>Dec</span>
-                    </div>
-                </div>
-                <div class="event-content">
-                    <h3><a href="event-details.html">Global Conference on Business.</a></h3>
-                    <p>Pvolupttem accusantium doloremque laudantium, totam erspiciatis unde omnis iste natus error .</p>
-                    <div class="event-meta-wrap">
-                        <div class="event-meta">
-                            <i class="fa fa-location-arrow"></i>
-                            <span>Shubastu ,Dadda</span>
-                        </div>
-                        <div class="event-meta">
-                            <i class="fa fa-clock-o"></i>
-                            <span>08:30 am</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="single-event event-white-bg">
-                <div class="event-img">
-                    <a href="event-details.html"><img src="assets/img/event/event-3.jpg" alt=""></a>
-                    <div class="event-date-wrap">
-                        <span class="event-date">1st</span>
-                        <span>Dec</span>
-                    </div>
-                </div>
-                <div class="event-content">
-                    <h3><a href="event-details.html">Academic Conference Maui.</a></h3>
-                    <p>Pvolupttem accusantium doloremque laudantium, totam erspiciatis unde omnis iste natus error .</p>
-                    <div class="event-meta-wrap">
-                        <div class="event-meta">
-                            <i class="fa fa-location-arrow"></i>
-                            <span>Banasree ,Rampura</span>
-                        </div>
-                        <div class="event-meta">
-                            <i class="fa fa-clock-o"></i>
-                            <span>10:00 am</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="single-event event-white-bg">
-                <div class="event-img">
-                    <a href="event-details.html"><img src="assets/img/event/event-2.jpg" alt=""></a>
-                    <div class="event-date-wrap">
-                        <span class="event-date">1st</span>
-                        <span>Dec</span>
-                    </div>
-                </div>
-                <div class="event-content">
-                    <h3><a href="event-details.html">Social Sciences & Education.</a></h3>
-                    <p>Pvolupttem accusantium doloremque laudantium, totam erspiciatis unde omnis iste natus error .</p>
-                    <div class="event-meta-wrap">
-                        <div class="event-meta">
-                            <i class="fa fa-location-arrow"></i>
-                            <span>Shubastu ,Badda</span>
-                        </div>
-                        <div class="event-meta">
-                            <i class="fa fa-clock-o"></i>
-                            <span>10:30 am</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div> --}}
-    </div>
-</div>
-
 
 
 
