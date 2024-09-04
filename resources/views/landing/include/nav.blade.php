@@ -27,7 +27,7 @@
                 <div class="col-lg-2 col-md-6 col-4">
                     <div class="logo">
                         <a href="index.html">
-                            <img alt="smp kristen pirngadi" src="{{ asset('assets/img/logo/logo-pirngadi.png') }}" width="40"> SMPK Pirngadi
+                            <img alt="smp kristen pirngadi" src="{{ asset('assets/img/logo/logo-pirngadi.png') }}" width="40"> SMAK Pirngadi
                         </a>
                     </div>
                 </div>

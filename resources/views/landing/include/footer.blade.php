@@ -5,22 +5,23 @@
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="footer-widget mb-40">
                         <div class="footer-title">
-                            <h4>ABOUT US</h4>
+                            <h4>TENTANG KAMI</h4>
                         </div>
                         <div class="footer-about">
-                            <p>Ugiat nulla pariatur. Edeserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natu</p>
+                            <p>SMA Kristen Pirngadi Surabaya adalah institusi pendidikan yang berkomitmen untuk memberikan pendidikan berkualitas dengan landasan iman dan kasih.</p>
                             <div class="f-contact-info">
                                 <div class="single-f-contact-info">
                                     <i class="fa fa-home"></i>
-                                    <span>Uttara, Dhaka, Bangladesh</span>
+                                    <span>Jl. Pirngadi No. 12-16, Surabaya</span>
                                 </div>
                                 <div class="single-f-contact-info">
                                     <i class="fa fa-envelope-o"></i>
-                                    <span><a href="#">education@email.com</a></span>
+                                    <span><a href="mailto:info@pirngadi.sch.id">info@pirngadi.sch.id</a></span>
                                 </div>
                                 <div class="single-f-contact-info">
                                     <i class="fa fa-phone"></i>
-                                    <span> +98 558 547 589</span>
+                                    <span>Bu Enggar: 0812-1766-7997</span><br>
+                                    <span>Pak Eko: 0812-3197-9189</span>
                                 </div>
                             </div>
                         </div>
@@ -29,22 +30,22 @@
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="footer-widget mb-40">
                         <div class="footer-title">
-                            <h4>QUICK LINK</h4>
+                            <h4>LINK CEPAT</h4>
                         </div>
                         <div class="footer-list">
                             <ul>
-                                <li><a href="{{ url('/') }}">Home</a></li>
+                                <li><a href="{{ url('/') }}">Beranda</a></li>
                                 <li><a href="{{ url('/tentang-kami') }}">Tentang Kami</a></li>
-                                <li><a href="{{ url('fasilitas') }}">Fasilitas</a></li>
-                                <li><a href="{{ url('guru') }}">Guru</a></li>
-                                <li><a href="{{ url('hubungi-kami') }}">Contact</a></li>
+                                <li><a href="{{ url('/fasilitas') }}">Fasilitas</a></li>
+                                <li><a href="{{ url('/guru') }}">Guru</a></li>
+                                <li><a href="{{ url('/hubungi-kami') }}">Hubungi Kami</a></li>
                             </ul>
                         </div>
                     </div>
                 </div>
-            
-            
-                {{-- <div class="col-lg-3 col-md-6 col-sm-12">
+                <!-- Bagian News Latter atau Newsletter bisa diaktifkan kembali jika dibutuhkan -->
+                <!--
+                <div class="col-lg-3 col-md-6 col-sm-12">
                     <div class="footer-widget mb-40">
                         <div class="footer-title">
                             <h4>News Latter</h4>
@@ -66,7 +67,8 @@
                             </div>
                         </div>
                     </div>
-                </div> --}}
+                </div>
+                -->
             </div>
         </div>
     </div>
@@ -78,7 +80,7 @@
                         <p>
                             Copyright ©
                             <a href="#">Pirngadi</a>
-                            . All Right Reserved.
+                            . All Rights Reserved.
                         </p>
                     </div>
                 </div>
@@ -86,8 +88,8 @@
                     <div class="footer-menu-social">
                         <div class="footer-menu">
                             <ul>
-                                <li><a href="#">Privecy & Policy</a></li>
-                                <li><a href="#">Terms & Conditions of Use</a></li>
+                                <li><a href="#">Privasi & Kebijakan</a></li>
+                                <li><a href="#">Syarat & Ketentuan</a></li>
                             </ul>
                         </div>
                         <div class="footer-social">
@@ -95,7 +97,7 @@
                                 <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
                                 <li><a class="youtube" href="#"><i class="fa fa-youtube-play"></i></a></li>
                                 <li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a class="google-plus" href="#"><i class="fa fa-google-plus"></i></a></li>
+                                <li><a class="instagram" href="https://www.instagram.com/smakpir_official/"><i class="fa fa-instagram"></i></a></li>
                             </ul>
                         </div>
                     </div>

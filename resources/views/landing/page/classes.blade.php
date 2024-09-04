@@ -25,129 +25,51 @@ Bukti Pembayaran
     </div>
 </div>
 
-<div class="course-area bg-img pt-130">
+<div class="course-area bg-img pt-130 pb-10" style="background-image:url(assets/img/bg/bg-1.jpg);">
     <div class="container">
-        <div class="section-title mb-75 course-mrg-small">
-            <h2> <span>Ruang</span> Sekolah</h2>
-            <p>Kami memiliki berbagai fasilitas di sekolah untuk mendukung proses belajar mengajar yang efektif dan menyenangkan. Berikut adalah beberapa ruangan utama yang ada di sekolah kami:</p>
+        <div class="section-title mb-75">
+            <h2> <span>SMA Kristen</span> Pirngadi</h2>
+            <p>Selamat datang di SMA Kristen Pirngadi, tempat di mana pendidikan berkualitas dan nilai-nilai Kristen berpadu. Kami berkomitmen untuk menciptakan lingkungan belajar yang inspiratif dan mendukung perkembangan holistik siswa. <br> Temukan fasilitas kami yang modern dan komunitas yang ramah.</p>
         </div>
-        <div class="course-slider-active-3">
+        <div class="course-slider-active nav-style-1 owl-carousel">
             <div class="single-course">
                 <div class="course-img">
-                    <a href="course-details.html"><img class="animated" src="assets/img/course/course-5.jpg" alt="Ruang Kepala Sekolah"></a>
+                    <a href="school-details.html"><img class="animated" src="assets/img/course/ruangan1.jpg" alt="Kelas Modern"></a>
+                    <span>Fasilitas Kelas Modern</span>
                 </div>
                 <div class="course-content">
-                    <h4><a href="course-details.html">Ruang Kepala Sekolah</a></h4>
-                    <p>Ruang Kepala Sekolah merupakan tempat pimpinan sekolah bekerja, dilengkapi dengan meja, kursi, dan fasilitas lain yang menunjang kegiatan administrasi dan koordinasi.</p>
+                    <h4><a href="school-details.html">Kelas Interaktif</a></h4>
+                    <p>Kelas kami dilengkapi dengan teknologi terbaru untuk mendukung metode pengajaran yang interaktif dan efektif.</p>
                 </div>
             </div>
             <div class="single-course">
                 <div class="course-img">
-                    <a href="course-details.html"><img class="animated" src="assets/img/course/course-9.jpg" alt="Ruang Guru"></a>
-                    <span>New Room</span>
+                    <a href="school-details.html"><img class="animated" src="assets/img/course/ruangan2.jpg" alt="Taman Sekolah"></a>
+                    <span>Lingkungan Hijau</span>
                 </div>
                 <div class="course-content">
-                    <h4><a href="course-details.html">Ruang Guru</a></h4>
-                    <p>Ruang Guru adalah area di mana para pengajar berkumpul dan berkoordinasi. Dilengkapi dengan meja kerja dan area istirahat untuk mendukung proses pengajaran.</p>
+                    <h4><a href="school-details.html">Taman Sekolah yang Asri</a></h4>
+                    <p>Area hijau yang indah di sekolah kami menyediakan ruang untuk bersantai dan berinteraksi di luar kelas.</p>
                 </div>
             </div>
             <div class="single-course">
                 <div class="course-img">
-                    <a href="course-details.html"><img class="animated" src="assets/img/course/course-6.jpg" alt="Ruang TU"></a>
+                    <a href="school-details.html"><img class="animated" src="assets/img/course/ruangan3.jpg" alt="Fasilitas Olahraga"></a>
+                    <span>Fasilitas Olahraga</span>
                 </div>
                 <div class="course-content">
-                    <h4><a href="course-details.html">Ruang TU</a></h4>
-                    <p>Ruang Tata Usaha (TU) merupakan area untuk administrasi sekolah, termasuk pendaftaran siswa, pengelolaan dokumen, dan keperluan administrasi lainnya.</p>
+                    <h4><a href="school-details.html">Fasilitas Olahraga Terlengkap</a></h4>
+                    <p>Dari lapangan olahraga hingga fasilitas kebugaran, kami memiliki berbagai fasilitas untuk mendukung kegiatan olahraga dan kesehatan siswa.</p>
                 </div>
             </div>
             <div class="single-course">
                 <div class="course-img">
-                    <a href="course-details.html"><img class="animated" src="assets/img/course/course-10.jpg" alt="Ruang Tamu"></a>
+                    <a href="school-details.html"><img class="animated" src="assets/img/course/ruangan4.png" alt="Area Komunitas"></a>
+                    <span>Komunitas Ramah</span>
                 </div>
                 <div class="course-content">
-                    <h4><a href="course-details.html">Ruang Tamu</a></h4>
-                    <p>Ruang Tamu adalah area di mana tamu sekolah dapat menunggu dan bertemu dengan staf atau pihak sekolah lainnya.</p>
-                </div>
-            </div>
-            <div class="single-course">
-                <div class="course-img">
-                    <a href="course-details.html"><img class="animated" src="assets/img/course/course-7.jpg" alt="Ruang Makan Guru"></a>
-                </div>
-                <div class="course-content">
-                    <h4><a href="course-details.html">Ruang Makan Guru</a></h4>
-                    <p>Ruang Makan Guru adalah area khusus untuk para pengajar makan siang, dilengkapi dengan meja makan dan fasilitas pendukung lainnya.</p>
-                </div>
-            </div>
-            <div class="single-course">
-                <div class="course-img">
-                    <a href="course-details.html"><img class="animated" src="assets/img/course/course-11.jpg" alt="Perpustakaan"></a>
-                </div>
-                <div class="course-content">
-                    <h4><a href="course-details.html">Perpustakaan</a></h4>
-                    <p>Perpustakaan sekolah menyediakan berbagai buku dan referensi untuk mendukung kegiatan belajar siswa dan penelitian.</p>
-                </div>
-            </div>
-            <div class="single-course">
-                <div class="course-img">
-                    <a href="course-details.html"><img class="animated" src="assets/img/course/course-8.jpg" alt="Kantin"></a>
-                </div>
-                <div class="course-content">
-                    <h4><a href="course-details.html">Kantin</a></h4>
-                    <p>Kantin adalah area di mana siswa dan staf dapat membeli makanan dan minuman selama waktu istirahat.</p>
-                </div>
-            </div>
-            <div class="single-course">
-                <div class="course-img">
-                    <a href="course-details.html"><img class="animated" src="assets/img/course/course-12.jpg" alt="Ruang Lab IPA"></a>
-                </div>
-                <div class="course-content">
-                    <h4><a href="course-details.html">Ruang Lab IPA</a></h4>
-                    <p>Ruang Lab IPA dilengkapi dengan peralatan dan materi untuk eksperimen dan praktikum di bidang Ilmu Pengetahuan Alam.</p>
-                </div>
-            </div>
-            <div class="single-course">
-                <div class="course-img">
-                    <a href="course-details.html"><img class="animated" src="assets/img/course/course-7.jpg" alt="Ruang Kelas 7"></a>
-                </div>
-                <div class="course-content">
-                    <h4><a href="course-details.html">Ruang Kelas 7</a></h4>
-                    <p>Ruang Kelas 7 adalah tempat belajar bagi siswa kelas 7, dengan fasilitas yang mendukung proses belajar mengajar.</p>
-                </div>
-            </div>
-            <div class="single-course">
-                <div class="course-img">
-                    <a href="course-details.html"><img class="animated" src="assets/img/course/course-2.jpg" alt="Ruang Kelas 8"></a>
-                </div>
-                <div class="course-content">
-                    <h4><a href="course-details.html">Ruang Kelas 8</a></h4>
-                    <p>Ruang Kelas 8 dilengkapi dengan fasilitas pembelajaran untuk mendukung aktivitas siswa kelas 8.</p>
-                </div>
-            </div>
-            <div class="single-course">
-                <div class="course-img">
-                    <a href="course-details.html"><img class="animated" src="assets/img/course/course-4.jpg" alt="Ruang Kelas 9"></a>
-                </div>
-                <div class="course-content">
-                    <h4><a href="course-details.html">Ruang Kelas 9</a></h4>
-                    <p>Ruang Kelas 9 adalah tempat untuk siswa kelas 9 mengikuti pelajaran dan kegiatan akademis lainnya.</p>
-                </div>
-            </div>
-            <div class="single-course">
-                <div class="course-img">
-                    <a href="course-details.html"><img class="animated" src="assets/img/course/course-1.jpg" alt="Ruang Lab Bahasa"></a>
-                </div>
-                <div class="course-content">
-                    <h4><a href="course-details.html">Ruang Lab Bahasa</a></h4>
-                    <p>Ruang Lab Bahasa dilengkapi dengan teknologi audio-visual untuk meningkatkan kemampuan bahasa siswa.</p>
-                </div>
-            </div>
-            <div class="single-course">
-                <div class="course-img">
-                    <a href="course-details.html"><img class="animated" src="assets/img/course/course-9.jpg" alt="Ruang Lab Komputer SMP"></a>
-                </div>
-                <div class="course-content">
-                    <h4><a href="course-details.html">Ruang Lab Komputer SMP</a></h4>
-                    <p>Ruang Lab Komputer SMP menyediakan fasilitas komputer untuk mendukung pembelajaran dan praktek teknologi informasi.</p>
+                    <h4><a href="school-details.html">Area Komunitas</a></h4>
+                    <p>Area komunitas di sekolah kami dirancang untuk memperkuat rasa kebersamaan dan dukungan antara siswa, guru, dan orang tua.</p>
                 </div>
             </div>
         </div>

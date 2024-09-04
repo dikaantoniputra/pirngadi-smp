@@ -10,7 +10,7 @@ Bukti Pembayaran
 
 @section('content')
 <div class="breadcrumb-area">
-    <div class="breadcrumb-top default-overlay bg-img breadcrumb-overly-3 pt-100 pb-95" style="background-image:url(assets/img/bg/breadcrumb-bg.jpg);">
+    <div class="breadcrumb-top default-overlay bg-img breadcrumb-overly-3 pt-100 pb-95" style="background-image:url(assets/img/teacher/bersama.JPG);">
         <div class="container">
             <h2>Daftar Guru</h2>
             <p>Temui tim pengajar kami yang berdedikasi dan berkompeten di bidangnya.</p>
@@ -34,178 +34,8 @@ Bukti Pembayaran
                         <a href="event-details.html"><img src="assets/img/event/event-1.jpg" alt=""></a>
                     </div>
                     <div class="event-content">
-                        <h3><a href="event-details.html">Josef Gerard Laisina, S.si</a></h3>
-                        <p>Kepala Sekolah, bertanggung jawab atas manajemen keseluruhan sekolah dan kebijakan pendidikan.</p>
-                        <div class="event-meta-wrap">
-                            <div class="event-meta">
-                                <i class="fa fa-location-arrow"></i>
-                                <span>Ruang Kepala Sekolah</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="single-event mb-55 event-gray-bg">
-                    <div class="event-img">
-                        <a href="event-details.html"><img src="assets/img/event/event-2.jpg" alt=""></a>
-                    </div>
-                    <div class="event-content">
-                        <h3><a href="event-details.html">Harnap N.S. Sihite, S.pd</a></h3>
-                        <p>Guru Biologi dan Kimia, mengajarkan mata pelajaran Biologi dan Kimia serta melakukan praktikum laboratorium.</p>
-                        <div class="event-meta-wrap">
-                            <div class="event-meta">
-                                <i class="fa fa-location-arrow"></i>
-                                <span>Ruang Biologi & Kimia</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="single-event mb-55 event-gray-bg">
-                    <div class="event-img">
-                        <a href="event-details.html"><img src="assets/img/event/event-3.jpg" alt=""></a>
-                    </div>
-                    <div class="event-content">
-                        <h3><a href="event-details.html">Dian Abdriana Martiani Lova Aloysia, SE, S.PD, M.PD</a></h3>
-                        <p>Guru Bahasa Indonesia, bertanggung jawab untuk mengajarkan Bahasa Indonesia dan sastra.</p>
-                        <div class="event-meta-wrap">
-                            <div class="event-meta">
-                                <i class="fa fa-location-arrow"></i>
-                                <span>Ruang Bahasa Indonesia</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="single-event mb-55 event-gray-bg">
-                    <div class="event-img">
-                        <a href="event-details.html"><img src="assets/img/event/event-4.jpg" alt=""></a>
-                    </div>
-                    <div class="event-content">
-                        <h3><a href="event-details.html">Dra. Lodya Petronella</a></h3>
-                        <p>Guru Fisika, mengajarkan fisika dan memimpin eksperimen laboratorium fisika.</p>
-                        <div class="event-meta-wrap">
-                            <div class="event-meta">
-                                <i class="fa fa-location-arrow"></i>
-                                <span>Ruang Fisika</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="single-event mb-55 event-gray-bg">
-                    <div class="event-img">
-                        <a href="event-details.html"><img src="assets/img/event/event-5.jpg" alt=""></a>
-                    </div>
-                    <div class="event-content">
-                        <h3><a href="event-details.html">Dian Kurnia Abadi</a></h3>
-                        <p>Guru Komputer, mengajarkan mata pelajaran teknologi informasi dan komputer.</p>
-                        <div class="event-meta-wrap">
-                            <div class="event-meta">
-                                <i class="fa fa-location-arrow"></i>
-                                <span>Ruang Komputer</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="single-event mb-55 event-gray-bg">
-                    <div class="event-img">
-                        <a href="event-details.html"><img src="assets/img/event/event-6.jpg" alt=""></a>
-                    </div>
-                    <div class="event-content">
-                        <h3><a href="event-details.html">Georgius Fantura, S.pd</a></h3>
-                        <p>Guru PJOK, mengajarkan Pendidikan Jasmani Olahraga dan Kesehatan serta mengatur kegiatan olahraga.</p>
-                        <div class="event-meta-wrap">
-                            <div class="event-meta">
-                                <i class="fa fa-location-arrow"></i>
-                                <span>Ruang PJOK</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="single-event mb-55 event-gray-bg">
-                    <div class="event-img">
-                        <a href="event-details.html"><img src="assets/img/event/event-7.jpg" alt=""></a>
-                    </div>
-                    <div class="event-content">
-                        <h3><a href="event-details.html">Fredy Yudistira Listion, S.Kom</a></h3>
-                        <p>Guru Informatika, mengajarkan mata pelajaran informatika dan teknologi.</p>
-                        <div class="event-meta-wrap">
-                            <div class="event-meta">
-                                <i class="fa fa-location-arrow"></i>
-                                <span>Ruang Informatika</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="single-event mb-55 event-gray-bg">
-                    <div class="event-img">
-                        <a href="event-details.html"><img src="assets/img/event/event-8.jpg" alt=""></a>
-                    </div>
-                    <div class="event-content">
-                        <h3><a href="event-details.html">Imam Hariyadi, S.Pd</a></h3>
-                        <p>Guru Bahasa Daerah, mengajarkan bahasa daerah dan kebudayaan lokal.</p>
-                        <div class="event-meta-wrap">
-                            <div class="event-meta">
-                                <i class="fa fa-location-arrow"></i>
-                                <span>Ruang Bahasa Daerah</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="single-event mb-55 event-gray-bg">
-                    <div class="event-img">
-                        <a href="event-details.html"><img src="assets/img/event/event-9.jpg" alt=""></a>
-                    </div>
-                    <div class="event-content">
-                        <h3><a href="event-details.html">Anggon Perwito, S.pd</a></h3>
-                        <p>Guru SBDP, mengajarkan Seni Budaya dan Prakarya.</p>
-                        <div class="event-meta-wrap">
-                            <div class="event-meta">
-                                <i class="fa fa-location-arrow"></i>
-                                <span>Ruang SBDP</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="single-event mb-55 event-gray-bg">
-                    <div class="event-img">
-                        <a href="event-details.html"><img src="assets/img/event/event-10.jpg" alt=""></a>
-                    </div>
-                    <div class="event-content">
-                        <h3><a href="event-details.html">Andik Kusuma, M.Pd</a></h3>
-                        <p>Guru PAK, mengajarkan Pendidikan Agama Kristen.</p>
-                        <div class="event-meta-wrap">
-                            <div class="event-meta">
-                                <i class="fa fa-location-arrow"></i>
-                                <span>Ruang PAK</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="single-event mb-55 event-gray-bg">
-                    <div class="event-img">
-                        <a href="event-details.html"><img src="assets/img/event/event-11.jpg" alt=""></a>
-                    </div>
-                    <div class="event-content">
-                        <h3><a href="event-details.html">Sri Handayani, S.Pd</a></h3>
-                        <p>Guru PKN, mengajarkan Pendidikan Kewarganegaraan.</p>
+                        <h3><a href="event-details.html">Enggar Tjahyani, S.Sos</a></h3>
+                        <p>Ilmu Administrasi Negara, mengajarkan mata pelajaran PKN.</p>
                         <div class="event-meta-wrap">
                             <div class="event-meta">
                                 <i class="fa fa-location-arrow"></i>
@@ -218,15 +48,15 @@ Bukti Pembayaran
             <div class="col-lg-4 col-md-6">
                 <div class="single-event mb-55 event-gray-bg">
                     <div class="event-img">
-                        <a href="event-details.html"><img src="assets/img/event/event-12.jpg" alt=""></a>
+                        <a href="event-details.html"><img src="assets/img/event/event-2.jpg" alt=""></a>
                     </div>
                     <div class="event-content">
-                        <h3><a href="event-details.html">Yaconias Uktolseja, S.Pd</a></h3>
-                        <p>Guru IPS, mengajarkan Ilmu Pengetahuan Sosial dan sejarah.</p>
+                        <h3><a href="event-details.html">Dra. Yusvita Anis S.</a></h3>
+                        <p>Mengajarkan mata pelajaran Geografi.</p>
                         <div class="event-meta-wrap">
                             <div class="event-meta">
                                 <i class="fa fa-location-arrow"></i>
-                                <span>Ruang IPS</span>
+                                <span>Ruang Geografi</span>
                             </div>
                         </div>
                     </div>
@@ -235,11 +65,96 @@ Bukti Pembayaran
             <div class="col-lg-4 col-md-6">
                 <div class="single-event mb-55 event-gray-bg">
                     <div class="event-img">
-                        <a href="event-details.html"><img src="assets/img/event/event-13.jpg" alt=""></a>
+                        <a href="event-details.html"><img src="assets/img/event/event-3.jpg" alt=""></a>
                     </div>
                     <div class="event-content">
-                        <h3><a href="event-details.html">Herry Wahono, ST</a></h3>
-                        <p>Guru Matematika, mengajarkan Matematika dan memfasilitasi pelajaran matematika.</p>
+                        <h3><a href="event-details.html">Drs. Chris Celis P</a></h3>
+                        <p>Mengajarkan mata pelajaran Kimia dan Biologi.</p>
+                        <div class="event-meta-wrap">
+                            <div class="event-meta">
+                                <i class="fa fa-location-arrow"></i>
+                                <span>Ruang Kimia & Biologi</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="single-event mb-55 event-gray-bg">
+                    <div class="event-img">
+                        <a href="event-details.html"><img src="assets/img/event/event-1.jpg" alt=""></a>
+                    </div>
+                    <div class="event-content">
+                        <h3><a href="event-details.html">Eko Setiyo Budiono, S.Kom</a></h3>
+                        <p>Mengajarkan mata pelajaran Komputer dan PKWU.</p>
+                        <div class="event-meta-wrap">
+                            <div class="event-meta">
+                                <i class="fa fa-location-arrow"></i>
+                                <span>Ruang Informatika</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="single-event mb-55 event-gray-bg">
+                    <div class="event-img">
+                        <a href="event-details.html"><img src="assets/img/event/event-2.jpg" alt=""></a>
+                    </div>
+                    <div class="event-content">
+                        <h3><a href="event-details.html">Agustinus Doe Koten, S.pd.</a></h3>
+                        <p>Mengajarkan mata pelajaran Bahasa Inggris.</p>
+                        <div class="event-meta-wrap">
+                            <div class="event-meta">
+                                <i class="fa fa-location-arrow"></i>
+                                <span>Ruang Bahasa Inggris</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="single-event mb-55 event-gray-bg">
+                    <div class="event-img">
+                        <a href="event-details.html"><img src="assets/img/event/event-3.jpg" alt=""></a>
+                    </div>
+                    <div class="event-content">
+                        <h3><a href="event-details.html">Dra. Anik Sri Purwandini</a></h3>
+                        <p>Bimbingan Konseling (BK), mengajarkan dan membimbing siswa dalam kegiatan BK.</p>
+                        <div class="event-meta-wrap">
+                            <div class="event-meta">
+                                <i class="fa fa-location-arrow"></i>
+                                <span>Ruang BK</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="single-event mb-55 event-gray-bg">
+                    <div class="event-img">
+                        <a href="event-details.html"><img src="assets/img/event/event-1.jpg" alt=""></a>
+                    </div>
+                    <div class="event-content">
+                        <h3><a href="event-details.html">Drs. Untung Tri Harjana</a></h3>
+                        <p>Mengajarkan mata pelajaran Pendidikan Jasmani, Olahraga, dan Kesehatan (PJOK).</p>
+                        <div class="event-meta-wrap">
+                            <div class="event-meta">
+                                <i class="fa fa-location-arrow"></i>
+                                <span>Ruang PJOK</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="single-event mb-55 event-gray-bg">
+                    <div class="event-img">
+                        <a href="event-details.html"><img src="assets/img/event/event-2.jpg" alt=""></a>
+                    </div>
+                    <div class="event-content">
+                        <h3><a href="event-details.html">Pria Aji Duwi Rakhmad, S.Si</a></h3>
+                        <p>Mengajarkan mata pelajaran Matematika.</p>
                         <div class="event-meta-wrap">
                             <div class="event-meta">
                                 <i class="fa fa-location-arrow"></i>
@@ -252,20 +167,142 @@ Bukti Pembayaran
             <div class="col-lg-4 col-md-6">
                 <div class="single-event mb-55 event-gray-bg">
                     <div class="event-img">
-                        <a href="event-details.html"><img src="assets/img/event/event-14.jpg" alt=""></a>
+                        <a href="event-details.html"><img src="assets/img/event/event-3.jpg" alt=""></a>
                     </div>
                     <div class="event-content">
-                        <h3><a href="event-details.html">Agustinus Doe Koten, S.Pd</a></h3>
-                        <p>Guru Bahasa Inggris, mengajarkan Bahasa Inggris dan sastra Inggris.</p>
+                        <h3><a href="event-details.html">Hanna Novita Sari, A.Md, S.Pd</a></h3>
+                        <p>Mengajarkan mata pelajaran Pendidikan Agama Kristen (PAK).</p>
                         <div class="event-meta-wrap">
                             <div class="event-meta">
                                 <i class="fa fa-location-arrow"></i>
-                                <span>Ruang Bahasa Inggris</span>
+                                <span>Ruang PAK</span>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="single-event mb-55 event-gray-bg">
+                    <div class="event-img">
+                        <a href="event-details.html"><img src="assets/img/event/event-1.jpg" alt=""></a>
+                    </div>
+                    <div class="event-content">
+                        <h3><a href="event-details.html">Jaya Nanta Eka Aditya, S.Sn</a></h3>
+                        <p>Mengajarkan mata pelajaran Seni Karawitan dan Bahasa Jawa.</p>
+                        <div class="event-meta-wrap">
+                            <div class="event-meta">
+                                <i class="fa fa-location-arrow"></i>
+                                <span>Ruang Seni & Bahasa Jawa</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="single-event mb-55 event-gray-bg">
+                    <div class="event-img">
+                        <a href="event-details.html"><img src="assets/img/event/event-2.jpg" alt=""></a>
+                    </div>
+                    <div class="event-content">
+                        <h3><a href="event-details.html">Mohammad Sutrisno, S.Pd</a></h3>
+                        <p>Mengajarkan mata pelajaran Sosiologi dan Pendidikan Pancasila (PP).</p>
+                        <div class="event-meta-wrap">
+                            <div class="event-meta">
+                                <i class="fa fa-location-arrow"></i>
+                                <span>Ruang Sosiologi & PP</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="single-event mb-55 event-gray-bg">
+                    <div class="event-img">
+                        <a href="event-details.html"><img src="assets/img/event/event-3.jpg" alt=""></a>
+                    </div>
+                    <div class="event-content">
+                        <h3><a href="event-details.html">Ratna Ayuningtiyas, S.Pd</a></h3>
+                        <p>Mengajarkan mata pelajaran Bahasa Indonesia.</p>
+                        <div class="event-meta-wrap">
+                            <div class="event-meta">
+                                <i class="fa fa-location-arrow"></i>
+                                <span>Ruang Bahasa Indonesia</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="single-event mb-55 event-gray-bg">
+                    <div class="event-img">
+                        <a href="event-details.html"><img src="assets/img/event/event-1.jpg" alt=""></a>
+                    </div>
+                    <div class="event-content">
+                        <h3><a href="event-details.html">Buyung Mahardhika, S.Pd</a></h3>
+                        <p>Mengajarkan mata pelajaran Seni Rupa.</p>
+                        <div class="event-meta-wrap">
+                            <div class="event-meta">
+                                <i class="fa fa-location-arrow"></i>
+                                <span>Ruang Seni Rupa</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="single-event mb-55 event-gray-bg">
+                    <div class="event-img">
+                        <a href="event-details.html"><img src="assets/img/event/event-2.jpg" alt=""></a>
+                    </div>
+                    <div class="event-content">
+                        <h3><a href="event-details.html">Joreza Pattinasarane</a></h3>
+                        <p>Bagian Tata Usaha, bertanggung jawab atas administrasi sekolah.</p>
+                        <div class="event-meta-wrap">
+                            <div class="event-meta">
+                                <i class="fa fa-location-arrow"></i>
+                                <span>Ruang Tata Usaha</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="single-event mb-55 event-gray-bg">
+                    <div class="event-img">
+                        <a href="event-details.html"><img src="assets/img/event/event-3.jpg" alt=""></a>
+                    </div>
+                    <div class="event-content">
+                        <h3><a href="event-details.html">Ni Ketut Suartini</a></h3>
+                        <p>Pustakawan, bertanggung jawab atas pengelolaan perpustakaan sekolah.</p>
+                        <div class="event-meta-wrap">
+                            <div class="event-meta">
+                                <i class="fa fa-location-arrow"></i>
+                                <span>Perpustakaan</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="single-event mb-55 event-gray-bg">
+                    <div class="event-img">
+                        <a href="event-details.html"><img src="assets/img/event/event-10.jpg" alt=""></a>
+                    </div>
+                    <div class="event-content">
+                        <h3><a href="event-details.html">Doni Danang Setiawan</a></h3>
+                        <p>Bagian Tata Usaha, bertanggung jawab atas administrasi sekolah.</p>
+                        <div class="event-meta-wrap">
+                            <div class="event-meta">
+                                <i class="fa fa-location-arrow"></i>
+                                <span>Ruang Tata Usaha</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                                                
+            
+            
         </div>
     </div>
 </div>

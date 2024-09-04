@@ -45,7 +45,7 @@ Bukti Pembayaran
                     <div class="contact-info-icon">
                         <span><i class="fa fa-calendar-o"></i></span>
                     </div>
-                    <p>Uttara, Dhaka, Bangladesh <br>Opposite site Of Yellow.</p>
+                    <p>Jl.Pirngadi No 12-16<br>Surabaya</p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-4 col-12">
@@ -58,8 +58,8 @@ Bukti Pembayaran
                             <span>Phone : </span>
                         </div>
                         <div class="info-phn-number">
-                            <p>+091111111111</p>
-                            <p>+091111111111</p>
+                            <p>Bu Enggar : 0812-1766-7997</p>
+                            <p>Pak Eko : 0812-3197-9189</p>
                         </div>
                     </div>
                 </div>
@@ -69,7 +69,8 @@ Bukti Pembayaran
                     <div class="contact-info-icon">
                         <span><i class="fa fa-calendar-o"></i></span>
                     </div>
-                    <a href="#">education@email.com</a>
+                    <a href="#">fb: smakristen pirngadi</a></br>
+                    <a href="https://www.instagram.com/smakpir_official/">ig: @smakpir_official</a>
                 </div>
             </div>
         </div>
